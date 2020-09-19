@@ -14,6 +14,7 @@
       }
       return result;
     };
+   ```
 6. English courses at Underground Language Club for 6 month.
 7. I passed English courses at Underground Language Club (B2 level). I finishen one-week vebinar on using Photoshop in layout creating fron Highlights. 
 8. I can keep up a simple conversation an explain how to do something.
