@@ -1,10 +1,12 @@
 ### Name
 Inna Lugovtsova
-_ _ _ _ _  
+
+------------------------- 
 ### Contacts  
 Phone number: +375293821819  
-E-mail: inn.lugovtsova01@mail.ru  
-_ _ _ _ _  
+E-mail: inn.lugovtsova01@mail.ru 
+
+------------------------- 
 ### Skills & experience
 * My goal is to receive new skills in WEB-development to realize myself. I prefer detailed analysis of materials and work at full capacity.
 * I have little experience, but there was a time, when I made nice pages using HTML and CSS. I tried to make a layout for the site in Photoshop. I have great experience of participating in the volunteer movement at large-scale events (f.e. The 2nd European Games 2019, The Match Europe v USA 2019).
